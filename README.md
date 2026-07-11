@@ -3,8 +3,7 @@ AWS IAM lab demonstrating user management, group-based access control, IAM polic
 AWS Identity and Access Management (IAM)
 Objective: Students are required to demonstrate their understanding of AWS Identity and Access Management (IAM) by performing the activities in the AWS Learner Lab, capturing screenshots as evidence, and submitting a complete lab report during the class hour.
 
-Assessment Tasks
-Each student must perform the following activities individually:
+Assessment Tasks:
 1. Launch the AWS Learner Lab and access the AWS Management Console.
 2. Explore the IAM Dashboard.
 3. Examine existing IAM Users and record observations.
